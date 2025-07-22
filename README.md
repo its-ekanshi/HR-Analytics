@@ -67,10 +67,7 @@ This **HR Analytics** project explores workforce attendance patterns using **Pow
 
 ---
 
-
 ## 🔗 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ekanshisaxena)
 - 💻 [GitHub](https://github.com/its-ekanshi)
-
----
